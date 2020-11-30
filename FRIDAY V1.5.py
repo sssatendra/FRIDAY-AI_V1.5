@@ -1,3 +1,7 @@
+# FRIDAY AI Virtual assistance by Satendra Kumar R, Feel free to use this code. If you have any inputs to add in this program, then please let me know @ sssatendra51@gmail.com
+# my LinkedIn profile @  satendra-kumar-006795148
+# 
+
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
 import datetime
